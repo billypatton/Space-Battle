@@ -1,0 +1,29 @@
+Epic Space battle - by Billy Patton C08436789
+
+
+
+THE SETUP
+
+
+there are two sides; The Humans and The Aliens
+
+both sides have 2 ship types; fighter ships and destroyers, both teams have 10 fighters and 2 destroyers
+
+
+
+
+THE FIGHT
+
+- the main battle will commence when the alien race comes in contact with the human race.
+
+- the fighters will swarm/ flock around eachother
+
+- the destroyers move slowly around the outside of the battle
+
+- the destroyers battle like old timey ships
+
+- cinematic camera at start
+
+- once battle starts, switch camera randomly to follow indiviual fighter ships
+
+- if all goes well, fights will be random and a winner will not be predisposed.
